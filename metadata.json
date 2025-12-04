@@ -1,0 +1,5 @@
+{
+  "name": "PrediMaint AI",
+  "description": "工業預知保養 SaaS 平台演示：包含後台 CMS、前台網站、留言系統與 GCP 部署架構指南。",
+  "requestFramePermissions": []
+}
